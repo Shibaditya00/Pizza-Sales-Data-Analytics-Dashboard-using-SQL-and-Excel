@@ -1,0 +1,35 @@
+# Project Title: Pizza Sales Data Analytics Dashboard using SQL and Excel
+
+# Overview:
+
+This project presents an in-depth analysis of pizza sales data, utilizing SQL for data extraction and Excel for visualization. The primary objective is to derive actionable insights from sales data to inform 
+business decisions and strategies.
+
+# Key Performance Indicators (KPIs):
+
+* Total Revenue: Calculated the sum of all pizza order prices to determine overall earnings.
+* Average Order Value: Assessed by dividing total revenue by the number of orders, indicating average customer spend.
+* Total Pizzas Sold: Summed quantities of all pizzas sold to gauge product demand.
+* Total Orders: Counted the total number of orders placed to understand sales volume.
+* Average Pizzas Per Order: Determined by dividing total pizzas sold by total orders, reflecting customer purchasing behavior.
+
+# Data Visualization:
+
+* To effectively communicate findings, several charts and graphs were created:
+* Daily Order Trends: Bar charts illustrating daily fluctuations in order volumes.
+* Hourly Order Trends: Line charts showcasing peak ordering times throughout the day.
+* Sales by Pizza Category: Pie charts depicting the percentage contribution of each pizza category to total sales.
+* Sales by Pizza Size: Pie charts highlighting customer preferences for different pizza sizes.
+* Pizzas Sold by Category: Funnel charts comparing the number of pizzas sold across categories.
+* Top 5 Best Sellers: Bar charts identifying the most popular pizzas based on sales volume.
+* Bottom 5 Worst Sellers: Bar charts highlighting underperforming pizzas.
+
+#Tools and Technologies:
+
+SQL: Employed for querying and extracting relevant data from the database.
+Microsoft Excel: Utilized for data cleaning, analysis, and creating interactive dashboards with pivot tables and charts.
+
+Conclusion:
+
+This project demonstrates the power of combining SQL and Excel to transform raw sales data into meaningful insights. By analyzing key metrics and visualizing trends, businesses can make informed decisions to 
+enhance performance and customer satisfaction.
